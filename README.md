@@ -34,8 +34,8 @@ A financial institution is seeking to derive actionable insights from customer b
 
    # Key Insights
 
-  Income Band Distribution: The majority of customers fall into the *Low and Medium income bands.
-  Nationality Trends*: Certain nationalities are overrepresented in specific income bands.
-  Estimated Income* and *Credit Card Balance* show a slight positive correlation.
-  Superannuation Savings correlates moderately with *Estimated Income* (ρ ≈ 0.37).
+  Income Band Distribution: The majority of customers fall into the Low and Medium income bands.
+  Nationality Trends: Certain nationalities are overrepresented in specific income bands.
+  Estimated Income and Credit Card Balance show a slight positive correlation.
+  Superannuation Savings correlates moderately with Estimated Income (ρ ≈ 0.37).
   Some features may exhibit skewness and require transformation before modeling.
